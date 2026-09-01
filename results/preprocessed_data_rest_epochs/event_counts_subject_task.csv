@@ -1,0 +1,17 @@
+Subject,Task,Runs,Events,Retained_epochs,Dropped_epochs
+002,auditory,2,400,400,0
+002,motor,3,217,217,0
+002,rest,1,462,462,0
+002,somatosensory,2,405,405,0
+005,auditory,2,400,400,0
+005,motor,3,246,246,0
+005,rest,1,438,438,0
+005,somatosensory,2,400,400,0
+006,auditory,2,400,400,0
+006,motor,3,166,166,0
+006,rest,1,438,438,0
+006,somatosensory,2,407,407,0
+093,auditory,2,400,400,0
+093,motor,3,221,221,0
+093,rest,1,436,436,0
+093,somatosensory,2,417,417,0

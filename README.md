@@ -4,9 +4,9 @@ Master's Thesis
 
 Author: Fatemah Abdelwahed
 
-Supervisor: Mehrnoosh Sadrazadeh & Umesh Vivekananda
+Supervisors: Professor Mehrnoosh Sadrazadeh & Dr Umesh Vivekananda
 
-University: UCL
+University: University College London (UCL)
 
 ---
 

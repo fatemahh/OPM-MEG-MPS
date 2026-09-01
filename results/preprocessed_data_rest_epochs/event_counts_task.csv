@@ -1,0 +1,5 @@
+Task,Total_runs,Total_events,Total_retained_epochs,Total_dropped_epochs
+auditory,8,1600,1600,0
+motor,12,850,850,0
+rest,4,1774,1774,0
+somatosensory,8,1629,1629,0
